@@ -47,8 +47,10 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![Screenshot 2024-12-29 192741](https://github.com/user-attachments/assets/058a0602-d58b-422a-b21e-dabc3ca5b9a2)
+
+### Name: BHUVANESHWARAN TU
+### Register Number:24009351
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
